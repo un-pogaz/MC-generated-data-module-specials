@@ -1,0 +1,10 @@
+| Name                  | Count | Chance | Weight | Comment                               |
+| --------------------- | ----- | ------ | ------ | ------------------------------------- |
+| 1 time                |    -- |     -- |     -- |                                       |
+| minecraft:toxic_resin |  0..1 |   100% |      1 |                                       |
+| – – – – – – – – – – – | – – – | – – –  | – – –  | – – – – – – – – – – – – – – – – – – – |
+| 1 time                |    -- |     -- |     -- | random chance: 0.1%                   |
+| minecraft:toxic_resin |  0..1 |   100% |      1 |                                       |
+| – – – – – – – – – – – | – – – | – – –  | – – –  | – – – – – – – – – – – – – – – – – – – |
+| 1 time                |    -- |     -- |     -- | killed by player, random chance: 0.5% |
+| minecraft:toxic_beam  |  0..1 |   100% |      1 |                                       |
