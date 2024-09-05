@@ -1,1 +1,1 @@
-minecraft:potato_hammer
+minecraft:potato_hammer  = {{value}}
